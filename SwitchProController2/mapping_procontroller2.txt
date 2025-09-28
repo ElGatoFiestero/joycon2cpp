@@ -1,0 +1,86 @@
+"A" "CIRCLE" "DS4"
+"B" "CROSS" "DS4"
+"X" "TRIANGLE" "DS4"
+"Y" "SQUARE" "DS4"
+"L1" "L3" "DS4"
+"L2" "L2" "DS4"
+"L3" "L1" "DS4"
+"GL" "TOUCHPAD" "DS4"
+"R1" "R1" "DS4"
+"R2" "R2" "DS4"
+"R3" "R3" "DS4"
+"GR" "VK_SNAPSHOT" "Keyboard"
+"BACK" "SHARE" "DS4"
+"START" "OPTIONS" "DS4"
+"GAMECHAT" "VK_OEM_5" "Keyboard" // Para RivaMendez
+"GUIDE" "VK_VOLUME_UP" "Keyboard"
+"SCREENSHOTS" "VK_VOLUME_DOWN" "Keyboard"
+"DPAD_LS" "STICKL" "DS4" // Invierte direcciones de la palanca con las del dpad
+
+/////////////////////////////////////////////////////////////
+
+["Hollow Knight Silksong.exe"]
+"A" "CIRCLE" "DS4"
+"B" "CROSS" "DS4"
+"X" "TRIANGLE" "DS4"
+"Y" "SQUARE" "DS4"
+"L1" "L1" "DS4"
+"L2" "L2" "DS4"
+"L3" "L3" "DS4"
+"GL" "VK_VOLUME_DOWN" "Keyboard" // GL usado para bajar volumen
+"R1" "R1" "DS4"
+"R2" "R2" "DS4"
+"R3" "R3" "DS4"
+"GR" "VK_SNAPSHOT" "Keyboard"
+"BACK" "TOUCHPAD" "DS4" // Boton select es un click sobre el touchpad
+"START" "OPTIONS" "DS4"
+"GAMECHAT" "VK_OEM_5" "Keyboard" // Para RivaMendez
+"GUIDE" "VK_VOLUME_UP" "Keyboard"
+"SCREENSHOTS" "VK_VOLUME_DOWN" "Keyboard"
+
+/////////////////////////////////////////////////////////////
+
+["Cronos.exe"]
+"A" "CIRCLE" "DS4"
+"B" "CROSS" "DS4"
+"X" "TRIANGLE" "DS4"
+"Y" "SQUARE" "DS4"
+"L1" "L3" "DS4"
+"L2" "L2" "DS4"
+"L3" "SHARE" "DS4"
+"GL" "R1" "DS4"
+"R1" "L1" "DS4"
+"R2" "R2" "DS4"
+"R3" "R3" "DS4"
+"GR" "VK_SNAPSHOT" "Keyboard"
+"BACK" "TOUCHPAD" "DS4"
+"START" "OPTIONS" "DS4"
+"GAMECHAT" "VK_OEM_5" "Keyboard" // Para RivaMendez
+"GUIDE" "VK_VOLUME_UP" "Keyboard"
+"SCREENSHOTS" "VK_VOLUME_DOWN" "Keyboard"
+"DPAD_LS" "STICKL" "DS4" // Invierte direcciones de la palanca con las del dpad
+
+/////////////////////////////////////////////////////////////
+
+["SHf-Win64-Shipping.exe"]
+
+"A" "CIRCLE" "DS4"
+"B" "CROSS" "DS4"
+"X" "TRIANGLE" "DS4"
+"Y" "SQUARE" "DS4"
+"L1" "L3" "DS4"
+"L2" "L2" "DS4"
+"L3" "L1" "DS4"
+//"GL" "TOUCHPAD" "DS4"
+"GL" "TOUCHPAD" "DS4"
+"R1" "R1" "DS4"
+"R2" "R2" "DS4"
+"R3" "R3" "DS4"
+"GR" "VK_SNAPSHOT" "Keyboard"
+//"BACK" "SHARE" "DS4"
+"BACK" "L1" "DS4"
+"START" "OPTIONS" "DS4"
+"GAMECHAT" "VK_OEM_5" "Keyboard" // Para RivaMendez
+"GUIDE" "VK_VOLUME_UP" "Keyboard"
+"SCREENSHOTS" "VK_VOLUME_DOWN" "Keyboard"
+"DPAD_LS" "STICKL" "DS4" // Invierte direcciones de la palanca con las del dpad
